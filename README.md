@@ -26,5 +26,10 @@ It involves the exploratory of data analysis of customer subsription to answer s
 - Total number of subsription for each region
 - Key Customer segment, cancellation and subsription trends including slicers
 
+### DATA ANALYSIS
+Here; some basic lines of code and queries were used, summarisation and visualisation were used for a maningful report.
+
+### VISUALISATION
+
 -  
 
