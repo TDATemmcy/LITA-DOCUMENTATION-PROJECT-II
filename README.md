@@ -11,4 +11,10 @@ The main data source used was customersalesdata.csv and this is an open source a
 - SQL Structured Query Language for querying of data
 - Power BI; Business Intelligence
 - Gitub for Portfolio Building
+--------------------------
+### DATA CLEANING AND PREPARATION
+Thses are:
+1. Data loading and Inspection
+2. Removal Duplicates where necessary
+3. Data Cleaning and Formating
 
