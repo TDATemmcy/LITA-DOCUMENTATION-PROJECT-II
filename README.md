@@ -17,4 +17,14 @@ Thses are:
 1. Data loading and Inspection
 2. Removal Duplicates where necessary
 3. Data Cleaning and Formating
+----------------------------
+### EXPLORATORY DATA ANALYSIS
+It involves the exploratory of data analysis of customer subsription to answer some basic questions:
+- Using pivot table to analyse subsription pattern
+- Find average subsriotion duration
+- Identify the most popular subscription types
+- Total number of subsription for each region
+- Key Customer segment, cancellation and subsription trends including slicers
+
+-  
 
