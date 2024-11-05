@@ -30,6 +30,6 @@ It involves the exploratory of data analysis of customer subsription to answer s
 Here; some basic lines of code and queries were used, summarisation and visualisation were used for a maningful report.
 --------------------------
 ### VISUALISATION
+https://github.com/TDATemmcy/LITA-DOCUMENTATION-PROJECT-II/blob/main/Screenshot%20(17).png 
 
--  
 
