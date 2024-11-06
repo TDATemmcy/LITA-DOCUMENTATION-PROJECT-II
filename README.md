@@ -31,110 +31,20 @@ Here; some basic lines of code and queries were used, summarisation and visualis
 --------------------------
 ### VISUALISATION
 
-(https://github.com/TDATemmcy/LITA-DOCUMENTATION-PROJECT-II/blob/main/Screenshot%20(17).png) 
+![Screenshot (19)](https://github.com/user-attachments/assets/9b948ac6-6a55-4408-9232-09fbbe08dff3)
 
 
+![Screenshot (20)](https://github.com/user-attachments/assets/da47d7aa-d9ee-4d5a-b2d1-6d15f98ebc67)
 
-https://github.com/TDATemmcy/LITA-DOCUMENTATION-PROJECT-II/commit/5961877198eb2646dcbfcd8a977bfa6b0737abed
 
+![Screenshot (21)](https://github.com/user-attachments/assets/36a396e5-b376-4c15-9f04-5e68b0c77388)
 
 
-https://github.com/TDATemmcy/LITA-DOCUMENTATION-PROJECT-II/commit/b4714f13d0725d8178b6fd79ad51cbbfb90ccb4f
+![Screenshot (22)](https://github.com/user-attachments/assets/f072f207-b195-4e4e-8aa9-b1a1bc33b96e)
 
 
+![Screenshot (24)](https://github.com/user-attachments/assets/024a7c07-8d66-4b8f-b295-e9156f94b24d)
 
-https://github.com/TDATemmcy/LITA-DOCUMENTATION-PROJECT-II/commit/f55284e211569078e3b9035628edcb279286a170
 
-
-
-https://github.com/TDATemmcy/LITA-DOCUMENTATION-PROJECT-II/commit/f4667b9bcae29dd8792652bac29af50d2172d14a
-
-
-
-https://github.com/TDATemmcy/LITA-DOCUMENTATION-PROJECT-II/commit/a1552891d92b9052dbbe2347ce52794a0a4caada
-
-
-
-https://github.com/TDATemmcy/LITA-DOCUMENTATION-PROJECT-II/commit/72efcd68141763f152a2cff30260c1e497a61452
-
-
-
-https://github.com/TDATemmcy/LITA-DOCUMENTATION-PROJECT-II/commit/97257ab7e3e0e1498332f6a334a1120fee2d1d48
-
-
-
-https://github.com/TDATemmcy/LITA-DOCUMENTATION-PROJECT-II/commit/19e57c9177551fb7f3241740851d9df72ebccc86
-
-
-
-https://github.com/TDATemmcy/LITA-DOCUMENTATION-PROJECT-II/commit/80e017082c1208f396f5af9aec5beb505141f999
-
-
-
-https://github.com/TDATemmcy/LITA-DOCUMENTATION-PROJECT-II/commit/46ca07d6fd0dbb295dc221ea56edb4cfdf7f1cc0
-
-
-
-https://github.com/TDATemmcy/LITA-DOCUMENTATION-PROJECT-II/commit/d9cdee2d572a9138a55be1c54377bceefe2d19a1
-
-
-
-https://github.com/TDATemmcy/LITA-DOCUMENTATION-PROJECT-II/commit/03bcb5ca1364d47a2fbcddb4c0bd7395a5d18520
-
-
-
-https://github.com/TDATemmcy/LITA-DOCUMENTATION-PROJECT-II/commit/0948920c10aef0224877cdf4df57dfdee213042b
-
-
-
-https://github.com/TDATemmcy/LITA-DOCUMENTATION-PROJECT-II/commit/dee9740f16935d54fa13061164650865a20bbb33
-
-
-
-https://github.com/TDATemmcy/LITA-DOCUMENTATION-PROJECT-II/commit/ccea9ac62f5091160820a915f87b6293d8ea7fac
-
-
-
-https://github.com/TDATemmcy/LITA-DOCUMENTATION-PROJECT-II/commit/93f84efde46519618722b11996f385fcd3d803de
-
-
-
-https://github.com/TDATemmcy/LITA-DOCUMENTATION-PROJECT-II/commit/dee9740f16935d54fa13061164650865a20bbb33
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Screenshot (25)](https://github.com/user-attachments/assets/f6cec21f-150f-4675-9e2b-06d6734e4aca)
 
