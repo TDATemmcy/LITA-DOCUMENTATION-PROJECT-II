@@ -33,18 +33,35 @@ Here; some basic lines of code and queries were used, summarisation and visualis
 
 ![Screenshot (19)](https://github.com/user-attachments/assets/9b948ac6-6a55-4408-9232-09fbbe08dff3)
 
-
 ![Screenshot (20)](https://github.com/user-attachments/assets/da47d7aa-d9ee-4d5a-b2d1-6d15f98ebc67)
-
 
 ![Screenshot (21)](https://github.com/user-attachments/assets/36a396e5-b376-4c15-9f04-5e68b0c77388)
 
-
 ![Screenshot (22)](https://github.com/user-attachments/assets/f072f207-b195-4e4e-8aa9-b1a1bc33b96e)
-
 
 ![Screenshot (24)](https://github.com/user-attachments/assets/024a7c07-8d66-4b8f-b295-e9156f94b24d)
 
-
 ![Screenshot (25)](https://github.com/user-attachments/assets/f6cec21f-150f-4675-9e2b-06d6734e4aca)
+
+![Screenshot (29)](https://github.com/user-attachments/assets/872a88a1-abb1-4c9c-9f34-96e6d2c4e1ad)
+
+![Screenshot (30)](https://github.com/user-attachments/assets/447078da-79c4-40d0-9be0-176ba7205354)
+
+![Screenshot (28)](https://github.com/user-attachments/assets/1e99237d-40c9-48c9-a986-74e9fa84470b)
+
+![Screenshot (27)](https://github.com/user-attachments/assets/30f653ed-73a7-470a-a636-bd9664bbfc95)
+
+![Screenshot (26)](https://github.com/user-attachments/assets/de54dc5c-d992-44ee-ba69-0a011c43b235)
+
+![Screenshot (33)](https://github.com/user-attachments/assets/5075ccab-9a8f-4e76-8b25-fb75cab204fd)
+
+![Screenshot (35)](https://github.com/user-attachments/assets/9acaed4a-180f-48fc-8999-38ee983e2b86)
+
+![Screenshot (32)](https://github.com/user-attachments/assets/cd413e20-4164-420d-9e14-7da724fd9550)
+
+![Screenshot (31)](https://github.com/user-attachments/assets/60453f78-86c3-4ccc-babb-c0359607b8c9)
+
+![Screenshot (38)](https://github.com/user-attachments/assets/b54f656f-a134-41e9-bfab-2b4b8b98ccbf)
+
+
 
