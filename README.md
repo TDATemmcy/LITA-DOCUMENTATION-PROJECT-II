@@ -79,8 +79,10 @@ Here; some basic lines of code and queries were used, summarisation and visualis
 
 ![Screenshot (70)](https://github.com/user-attachments/assets/d10b035f-b55a-4093-ab04-472233db1fe9)
 
-
 ![Screenshot (69)](https://github.com/user-attachments/assets/7e171e82-3781-4562-9cb9-2b20bf974054)
+
+RECOMMENDATION
+
 
 
 
