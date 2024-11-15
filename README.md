@@ -61,7 +61,7 @@ Here; some basic lines of code and queries were used, summarisation and visualis
 
 ![Screenshot (31)](https://github.com/user-attachments/assets/60453f78-86c3-4ccc-babb-c0359607b8c9)
 
-![Screenshot (38)](https://github.com/user-attachments/assets/b54f656f-a134-41e9-bfab-2b4b8b98ccbf)
+
 
 
 
